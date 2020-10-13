@@ -1,2 +1,1 @@
-# repo1
-intro to git hub
+I am editing the README file. Adding some more details about the project desciption.
